@@ -9,7 +9,7 @@ dir = os.getcwd()
 
 print(dir)
 
-sys1 = os.system('ipconfig ifcount')
+sys1 = os.system('ifconfig')
 
 print(sys1)
 
